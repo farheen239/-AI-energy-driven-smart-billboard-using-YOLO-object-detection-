@@ -1,2 +1,1 @@
-# -AI-energy-driven-smart-billboard-using-YOLO-object-detection-
-This project presents an AI-driven smart billboard that dynamically adapts advertisements based on real-time environmental and audience conditions. Using YOLO-based object detection, the system analyzes traffic density.
+This project presents an AI-driven smart billboard that dynamically adapts advertisements based on real-time environmental and audience conditions. Using YOLO-based object detection, the system analyzes traffic density, pedestrian presence, and crowd characteristics to display context-aware safety messages or targeted advertisements. The billboard automatically adjusts content and power usage, improving energy efficiency, public safety, and marketing effectiveness.
